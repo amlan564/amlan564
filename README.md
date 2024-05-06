@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amlan Chakraborty</h1>
 <h3 align="center">A passionate software tester from Bangladesh</h3>
-<img align="right" alt="Software Testing" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif">
+<img align="right" alt="Software Testing" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amlan564&label=Profile%20views&color=0e75b6&style=flat" alt="amlan564" /> </p>
 
