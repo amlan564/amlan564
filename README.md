@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amlan564?tab=repositories](https://github.com/amlan564?tab=repositories)
 
-- 💬 Ask me about **Tailwind CSS, ReactJS, NextJS, Redux, Firebase**
+- 💬 Ask me about **Tailwind CSS, ReactJS, Redux Toolkit, NextJS, ExpressJS**
 
 - 📫 How to reach me **amlanckb123@gmail.com**
 
