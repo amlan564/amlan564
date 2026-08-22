@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amlan564?tab=repositories](https://github.com/amlan564?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://amlan-chakraborty.vercel.app/](https://amlan-chakraborty.vercel.app/)
 
 - 💬 Ask me about **Tailwind CSS, ReactJS, Redux Toolkit, NextJS, ExpressJS**
 
